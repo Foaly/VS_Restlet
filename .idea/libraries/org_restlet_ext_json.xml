@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.restlet.ext.json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../restlet-jse-2.3.0/lib/org.restlet.ext.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../restlet-jse-2.3.0/lib/org.restlet.jar!/" />
+      <root url="file://$PROJECT_DIR$/../restlet-jse-2.3.0/lib/org.json_2.0" />
+      <root url="jar://$PROJECT_DIR$/../restlet-jse-2.3.0/lib/org.json_2.0/org.json.jar!/org/json" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../restlet-jse-2.3.0/lib/org.json_2.0" recursive="false" />
+  </library>
+</component>
